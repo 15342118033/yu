@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">XUtil_Demo1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="open">打开</string>
+    <string name="closed">关闭</string>
+</resources>
